@@ -1,0 +1,6 @@
+{
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.diagnosticMode": "openFilesOnly",
+  "python.analysis.autoImportCompletions": false,
+  "python.linting.enabled": false
+}
