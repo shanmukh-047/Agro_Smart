@@ -1,1 +1,1 @@
-web: gunicorn agro_smart.wsgi
+web: gunicorn agro_smart.wsgi:application
