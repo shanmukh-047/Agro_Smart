@@ -40,7 +40,6 @@ fsspec==2025.3.2
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.71.0
-gunicorn
 gunicorn==23.0.0
 h11==0.14.0
 h5py==3.13.0
@@ -180,4 +179,3 @@ wheel==0.45.1
 whitenoise==6.9.0
 widgetsnbextension==4.0.13
 wrapt==1.17.2
-gunicorn
